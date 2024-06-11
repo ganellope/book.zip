@@ -1,11 +1,23 @@
 # book.zip
 
 ---
-읽은 책들을 정리하려고 한다. 기록용 지금부터 시작해야지
+읽은 책 정리
 
-|  |     |  |
-| ------- |---------------| -------- |
-| ![Alt text](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788956608556.jpg) | ![Alt text](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791165508340.jpg) | ![Alt text](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791168341500.jpg) |
-| ![Alt text](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788998441012.jpg) | ![Alt text](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788937437564.jpg)     | ![Alt text](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9791189327156.jpg) |
-|  |      |  |
+| ![Alt text](/images/호밀밭의파수꾼.jpeg)   | ![Alt text](/images/데미안.jpeg)              | ![Alt text](/images/1984.jpeg)          |
+|-------------------------------------|--------------------------------------------|-----------------------------------------|
+| ![Alt text](/images/구의증명.jpeg)      | ![Alt text](/images/나는메트로폴리탄의경비원입니다..jpeg) | ![Alt text](/images/나는소망한다내게금지된것을.jpeg) |
+| ![Alt text](/images/너무나많은여름이.jpeg)  | ![Alt text](/images/노르웨이의숲.jpeg)           | ![Alt text](/images/니체의말.jpeg)          |
+| ![Alt text](/images/달리기를말할때.jpeg)   | ![Alt text](/images/데미안.jpeg)              | ![Alt text](/images/도둑맞은집중력.jpeg)       |
+| ![Alt text](/images/도시와그불확실한벽.jpeg) | ![Alt text](/images/모순.jpeg)               | ![Alt text](/images/물고기는존재하지않는다.jpeg)   |
+| ![Alt text](/images/바깥은여름.jpeg)     | ![Alt text](/images/소크라테스익스프레스.jpeg)       | ![Alt text](/images/아버지의해방일지.jpeg)      |
+| ![Alt text](/images/여름.jpeg)        | ![Alt text](/images/여행의이유.jpeg)            | ![Alt text](/images/이처럼사소한것들.jpeg)      |
+| ![Alt text](/images/감정어휘.jpeg)      | ![Alt text](/images/다정한것이살아남는다.jpeg)       | ![Alt text](/images/단정한반복이나를살릴거야.jpeg)  |
+| ![Alt text](/images/백의그림자.jpeg)     | ![Alt text](/images/비행운.jpeg)              | ![Alt text](/images/세월.jpeg)            |
+| ![Alt text](/images/쉬운천국.jpeg)      | ![Alt text](/images/아몬드.jpeg)              | ![Alt text](/images/튜브.jpeg)            |
+| ![Alt text](/images/트로피컬나이트.jpeg)   |            |         |
 
+
+### 좋아하는 작가
+> 무라카미하루키
+
+> 양귀자
