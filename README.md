@@ -16,6 +16,8 @@
 | ![Alt text](/images/쉬운천국.jpeg)      | ![Alt text](/images/아몬드.jpeg)              | ![Alt text](/images/튜브.jpeg)            |
 | ![Alt text](/images/트로피컬나이트.jpeg)   |            |         |
 
+### 영향을 많이 받은 책
+- 다정한 것이 살아남는다
 
 ### 좋아하는 작가
 > 무라카미하루키
